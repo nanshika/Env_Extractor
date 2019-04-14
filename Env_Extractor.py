@@ -1,6 +1,5 @@
-﻿#!/usr/bin/env python
+﻿# python Env_Extractor.py
 # -*- coding: utf-8 -*-
-# Env_Extractor.py
 import os
 from datetime import datetime
 

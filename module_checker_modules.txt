@@ -1,0 +1,1 @@
+pip install collections concurrent ctypes curses distutils email encodings html http importlib lib2to3 logging multiprocessing numpy pkg_resources pydoc_data setuptools unittest urllib xml xmlrpc
